@@ -13,6 +13,7 @@ Before running the application make sure you have the following installer:
 
   - Node.js
   - MongoDB
+  - node_modules
   - API Testing Tool
 
 Features:
